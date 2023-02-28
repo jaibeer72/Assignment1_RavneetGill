@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		ECEC597229AE89820031A78C /* Assignment1_RavneetGill */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Assignment1_RavneetGill; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECEC597529AE89820031A78C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		ECEC597C29AE89E90031A78C /* Stock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stock.h; sourceTree = "<group>"; };
+		ECEC597D29AE8A290031A78C /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		ECEC597E29AE8A650031A78C /* Queue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Queue.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				ECEC597529AE89820031A78C /* main.cpp */,
+				ECEC597E29AE8A650031A78C /* Queue.h */,
+				ECEC597C29AE89E90031A78C /* Stock.h */,
+				ECEC597D29AE8A290031A78C /* Stack.h */,
 			);
 			path = Assignment1_RavneetGill;
 			sourceTree = "<group>";
